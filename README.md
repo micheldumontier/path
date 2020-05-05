@@ -1,4 +1,4 @@
-# path
+# xml-summary
 Create a summary of the structure and content of an xml file.
 
 can be run using saxon xslt provided by atomgraph
